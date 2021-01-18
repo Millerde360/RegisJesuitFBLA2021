@@ -1,4 +1,5 @@
 # Regis Jesuit FBLA 2021: Computer Game and Simulation Design
+**Made by Dean Miller, Freshman**
 **Made for FBLA 2021**
 
 Flip gravity through this 3 level puzzle game!
