@@ -6,14 +6,18 @@
 Flip gravity through this 3 level puzzle game!
 
 ## Setup
+### View Code:
+1. Open FBLA folder>Assets>Scripts
+2. Go to one of the folders (do not click the meta files in the root folder)
+3. Open a .cs file, not a .cs.meta
 ### Open in editor:
-1. Use FBLA to access the root project files
+1. Download FBLA folder to download project files
 2. Open Unity Hub, then press "add" at the top
 3. Find the FBLA folder to open the game in Unity
 ### Play the game:
 1. Download the ENTIRITY of the FBLAGAME folder
 2. Open FBLA.exe
-3. Enjoy!
+
 
 ## Assets Used
 ### Software:
